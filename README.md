@@ -3,9 +3,13 @@ This Excel-based Education Dashboard visualizes university data across Pakistan,
 
 **Key Features:**
 
-* Interactive filters for university, city, program, and funding type
-* Visuals on GPA trends, enrollment, and student demographics
-* Scholarship and hostel facility analysis
-* Program and education level distribution
-* Built with pivot tables, charts, and slicers for easy data exploration
+🎛️ Interactive Filters: Filter data by university, city, program, and funding type.
+
+📈 GPA & Enrollment Insights: Visualizations on GPA trends, enrollment, and student demographics.
+
+🎓 Scholarship & Hostel Analysis: Explore distribution of scholarships and hostel facilities.
+
+🏫 Program & Education Level Distribution: Analyze program types and education levels.
+
+📊 Built with Pivot Tables & Charts: Uses pivot tables, charts, and slicers for easy data exploration.
 
